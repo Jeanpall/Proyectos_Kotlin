@@ -14,7 +14,7 @@
 Bienvenido a [Kotlin](https://kotlinlang.org/)!</br>
 
 <p align="center">
-  <img src="https://github.com/Jeanpall/Tienda_Kotlin_Sena/assets/110552270/b546e1ef-db27-44a7-817c-c68cce88ecfc" alt="kotlin-smtp-library" width="700" height="400">
+  <img src="https://github.com/Jeanpall/Proyectos_Kotlin/assets/110552270/56a79864-db08-4947-b271-76c133d4a022" alt="kotlin-smtp-library" width="700" height="400">
 </p>
 
 Kotlin es un lenguaje de programación estático de código abierto que admite la programación funcional y orientada a objetos. </br>

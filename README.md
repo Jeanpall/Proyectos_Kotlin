@@ -140,7 +140,7 @@ Este proyecto consta de un splash, login y un dashboard el cual tiene todo el co
 
 Además cuenta con categorías en la pantalla principal, las cuales permiten una navegación. Con respecto a las otras pantallas podrá ver card con los diferentes productos los cuales lee una lista para cada categoría. No obstante contiene unos botones los cuales le permite ir a las redes sociales y al Blog de el centro CBA y también por medio de una API conocerá la ubicación del Centro. </br>
 
-# Enlace del Proyecto🔗 </br>
+###### NOTAS Proyecto🔗 </br>
 * [Codigo](https://github.com/Jeanpall/Proyectos_Kotlin/tree/main/Proyecto_Final)
 * Version Compose 1.8.10
 * Version Kotlin compiler 1.4.3

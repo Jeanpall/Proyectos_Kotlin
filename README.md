@@ -29,7 +29,7 @@ Links:
 Este proyecto cuenta con  una pantalla de inicio la cual tiene un texto y botón para continuar a la siguiente sección en la cual el usuario podrá encontrar unas card en lista las cuales cuentan con una animación y que permite desplegar un texto al hacer click en alguna de las card.</br>
 
 ###### NOTAS
-- [Codigo](https://kotlinlang.org/docs/home.html)
+- [Codigo](https://github.com/Jeanpall/Proyectos_Kotlin/tree/main/App_compose_4)
 - Version Compose 1.2.0
 - Version Kotlin Compiler 1.4.3
 
@@ -37,19 +37,19 @@ Este proyecto cuenta con  una pantalla de inicio la cual tiene un texto y botón
 En esta carpeta encontrara dos tipos de proyectos, son dos tipos de calculadoras las cuales una esta echa con Android Views y la otra con Jetpack Compose, esto para conocer la diferencia entre las dos, manejando la versión antigua y la mas actual como lo es Compose.
 
 ###### NOTAS Calculadora Views
-- [Codigo](https://kotlinlang.org/docs/home.html)
+- [Codigo](https://github.com/Jeanpall/Proyectos_Kotlin/tree/main/Calculadoras/Calculadora_view)
 - Archivos XML
 
 ###### NOTAS Calculadora Compose
-- [Codigo](https://kotlinlang.org/docs/home.html)
+- [Codigo](https://github.com/Jeanpall/Proyectos_Kotlin/tree/main/Calculadoras/Calculator-master)
 - Version Compose 1.0.5
 - Version Kotlin 1.5.31
 
 # Compose Cupcakes 🧁
 Este proyecto nos va a explicar a fondo el tema de navegaciones entre pantallas y se enfoca en venta de Cupcakes, permitiendo la selección de sabor, cantidad y fecha del domicilio. Haciendo un resumen de lo anterior y permitiendo compartir un tipo de registro.
 
-###### NOTAS Calculadora Views
-- [Codigo](https://kotlinlang.org/docs/home.html)
+###### NOTAS Cupcakes
+- [Codigo](https://github.com/Jeanpall/Proyectos_Kotlin/tree/main/Compose_Cupcakes)
 - Version Compose 1.8.21
 - Version Kotlin compiler 1.4.7
 
@@ -57,12 +57,12 @@ Este proyecto nos va a explicar a fondo el tema de navegaciones entre pantallas 
 Aquí podrá usted ver dos tipos de aplicaciones las cuales tienen una Barra de búsqueda “Sin función”, Card que leen una lista que contiene imagen y texto y un NavBar. Con respecto a la modificación que se le realizo, se adaptó a la tienda Sena y se agrego otra fila de Cards para productos varios, permitimos que la barra de búsqueda se pudiera digitar, además se añadió un Botón Flotante.
 
 ###### NOTAS Compose Estilo Original
-- [Codigo](https://kotlinlang.org/docs/home.html)
+- [Codigo](https://github.com/Jeanpall/Proyectos_Kotlin/tree/main/Compose%20Estilo%205/Compose_estilo_5)
 - Version Compose 1.8.10
 - Version Kotlin compiler 1.4.3
 
 ###### NOTAS Compose Estilo Modificado
-- [Codigo](https://kotlinlang.org/docs/home.html)
+- [Codigo](https://github.com/Jeanpall/Proyectos_Kotlin/tree/main/Compose%20Estilo%205/Compose_estilo_5_Reto)
 - Version Compose 1.8.10
 - Version Kotlin compiler 1.4.3
 
@@ -71,12 +71,12 @@ Evidenciara como se realizó la aplicación sobre un Login el cual no tiene ning
 Con respecto a las modificaciones que se le hizo fue añadirle un splash con animación en la imagen y un tiempo de 4 seg el cual después nos traerá a la pantalla del Login en el cual evidenciaremos un cambio de diseño para adaptarlo a lo que nosotros queremos.
 
 ###### NOTAS Compose Login Original
-- [Codigo](https://kotlinlang.org/docs/home.html)
+- [Codigo](https://github.com/Jeanpall/Proyectos_Kotlin/tree/main/Compose%20Login/Compose_login)
 - Version Compose 1.8.10
 - Version Kotlin compiler 1.4.3
 
 ###### NOTAS Compose Login Modificado
-- [Codigo](https://kotlinlang.org/docs/home.html)
+- [Codigo](https://github.com/Jeanpall/Proyectos_Kotlin/tree/main/Compose%20Login/Compose_login_reto)
 - Version Compose 1.8.10
 - Version Kotlin compiler 1.4.3
 - Splash y diseño.
@@ -86,7 +86,7 @@ Con respecto a las modificaciones que se le hizo fue añadirle un splash con ani
 En esta aplicación manejamos todo lo relacionado con los estados dentro de una aplicación y sus diferentes formas de implementarlas y conociéndolas profundamente. 
 
 ###### NOTAS Compose Estados
-- [Codigo](https://kotlinlang.org/docs/home.html)
+- [Codigo](https://github.com/Jeanpall/Proyectos_Kotlin/tree/main/Estados_Jetpack_6)
 - Version Compose 1.8.10
 - Version Kotlin compiler 1.4.3
 
@@ -94,7 +94,7 @@ En esta aplicación manejamos todo lo relacionado con los estados dentro de una 
 Aplicación en la cual implementamos un tipo chat el cual por medio de una lista están todos los textos y que permite seleccionar cualquiera y que cambien el color al hacer esta acción.
 
 ###### NOTAS Compose 4
-- [Codigo](https://kotlinlang.org/docs/home.html)
+- [Codigo](https://github.com/Jeanpall/Proyectos_Kotlin/tree/main/Jetpack_Compose_4)
 - Version Compose 1.8.10
 - Version Kotlin compiler 1.4.3
 
@@ -110,20 +110,20 @@ El de notificaciones nos brinda 4 tipos de notificaciones:
 Y la última versión de este Dashboard es la implementación de listas y card en las diferentes páginas, en este se hizo fue acoplar a una tienda la cual es la tienda Sena.
 
 ###### NOTAS Dashboard Original
-- [Codigo](https://kotlinlang.org/docs/home.html)
+- [Codigo](https://github.com/Jeanpall/Proyectos_Kotlin/tree/main/Dashboard/Proyecto_Dashboard)
 - Version Compose 1.8.10
 - Version Kotlin compiler 1.4.3
 - Uso Material 1
 
 ###### NOTAS Dashboard Notificaciones
-- [Codigo](https://kotlinlang.org/docs/home.html)
+- [Codigo](https://github.com/Jeanpall/Proyectos_Kotlin/tree/main/Dashboard/Proyecto_Dashboard_Notificacion)
 - Version Compose 1.8.10
 - Version Kotlin compiler 1.4.3
 - Material 1.
 - 4 tipos de notificaciones.
 
 ###### NOTAS Dashboard Modificado
-- [Codigo](https://kotlinlang.org/docs/home.html)
+- [Codigo](https://github.com/Jeanpall/Proyectos_Kotlin/tree/main/Dashboard/Proyecto_Dashboard_Reto)
 - Version Compose 1.8.10
 - Version Kotlin compiler 1.4.3
 - Cards y listas.
@@ -141,5 +141,10 @@ Este proyecto consta de un splash, login y un dashboard el cual tiene todo el co
 Además cuenta con categorías en la pantalla principal, las cuales permiten una navegación. Con respecto a las otras pantallas podrá ver card con los diferentes productos los cuales lee una lista para cada categoría. No obstante contiene unos botones los cuales le permite ir a las redes sociales y al Blog de el centro CBA y también por medio de una API conocerá la ubicación del Centro. </br>
 
 # Enlace del Proyecto🔗 </br>
-* [Codigo Proyecto](https://github.com/Jeanpall/Tienda_Kotlin_Sena/tree/main/app/src/main/java/com/example/proyecto_dashboard)
-* [Imagenes](https://github.com/Jeanpall/Tienda_Kotlin_Sena/tree/main/app/src/main)
+* [Codigo](https://github.com/Jeanpall/Proyectos_Kotlin/tree/main/Proyecto_Final)
+* Version Compose 1.8.10
+* Version Kotlin compiler 1.4.3
+* Notificaciones
+* Splash y Login con video de fondo
+* Adaptación a tienda sena
+* Implementación de Card y listas

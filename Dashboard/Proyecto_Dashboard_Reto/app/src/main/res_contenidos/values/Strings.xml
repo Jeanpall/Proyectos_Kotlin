@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Titulo_contenido">Horarios de atencion del CBA:</string>
+    <string name="Horarios_semana">Lunes a viernes de: 7:00 am a 6:00pm</string>
+    <string name="Horarios_fin_semana">Sabados: 7:00 am a 12:00pm</string>
+    <string name="Boton">¡Agenda tu Turno!</string>
+</resources>

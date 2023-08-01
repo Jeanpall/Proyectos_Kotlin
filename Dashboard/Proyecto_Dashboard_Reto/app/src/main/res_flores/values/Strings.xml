@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Flores">Flores</string>
+    <string name="Girasol">Girasol</string>
+    <string name="Girasol_descripcion">Helianthus annuus, también llamado comúnmente girasol, mirasol, maravilla, maíz de teja, es una planta herbácea anual de la familia de las asteráceas originaria de Centro y Norteamérica y cultivada como alimenticia, oleaginosa y ornamental.</string>
+    <string name="Tulipan">Tulipan</string>
+    <string name="Tulipan_descripcion">Nombre cientifico Tulipa es un género de plantas perennes y bulbosas perteneciente a la familia Liliaceae, en el que se incluyen los populares tulipanes, nombre común con el que se designa a todas las especies, híbridos y cultivares de este género.</string>
+    <string name="Rosas">Rosas</string>
+    <string name="Rosas_descripcion">El género Rosa está compuesto por un conocido grupo de arbustos generalmente espinosos y floridos representantes principales de la familia de las rosáceas. Se denomina rosa a la flor de los miembros de este género y rosal a la planta.</string>
+    <string name="Amapola">Amapola</string>
+    <string name="Amapola_descripcion">La amapola común o amapola silvestre (Papaver rhoeas), es una especie fanerógama del género Papaver, perteneciente a la familia Papaveraceae (papaveráceas). Es una planta de ciclo anual que puede alcanzar más de 50 cm de altura. </string>
+    <string name="Margarita">Margarita</string>
+    <string name="Margarita_descripcion">Bellis perennis, comúnmente llamada margarita, es una planta herbácea de la familia de las asteráceas (Asteraceae) muy utilizada a efectos decorativos mezclada con el césped, por sus colores y su resistencia a la siega. </string>
+    <string name="Clavel">Clavel</string>
+    <string name="Clavel_descripcion">El clavel o clavelina (Dianthus caryophyllus) es una planta herbácea perteneciente a la familia de las Caryophyllaceae, es considerada como flor del agua, difundida en las regiones mediterráneas. Es espontánea en la flora de la península ibérica.  </string>
+
+</resources>

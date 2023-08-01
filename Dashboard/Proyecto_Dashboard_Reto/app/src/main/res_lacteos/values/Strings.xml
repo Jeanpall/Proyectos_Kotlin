@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="la_leche_vaca">Leche de Vaca</string>
+    <string name="la_leche_vaca_descripcion">La leche de vaca proporciona gran cantidad de proteínas fácilmente digeribles y de alto valor biológico, ya que aportan los aminoácidos para cubrir los requerimientos humanos, incluidos los esenciales.</string>
+    <string name="la_leche_cabra">Leche de Cabra</string>
+    <string name="la_leche_cabra_descripcion">En síntesis esta leche en comparación con la de vaca, tiene casi la misma cantidad de proteínas, grasa, hierro, vitamina C y D. La leche de cabra contiene mayor cantidad de vitaminas A y B y menor contenido de lactosa.</string>
+    <string name="la_queso">Queso</string>
+    <string name="la_queso_descripcion">Es un alimento de alto valor proteico y rico en calcio, fósforo, riboflavina y vitamina A. Es un excelente alimento que contiene las mismas propiedades que la leche salvo la lactosa que es arrastrada por el suero durante su elaboración.</string>
+    <string name="la_yogurt">Yogurt</string>
+    <string name="la_yogurt_descripcion">Es un alimento de alta densidad nutricional, fuente de minerales, vitaminas y proteínas de alta calidad, que contribuyen de forma notoria a cubrir los requerimientos de diversos micronutrientes. El consumo de este es saludable.</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="card_01"> SENA y Armada Nacional se unen para fortalecer la formación </string>
+    <string name="card_description_01"> Miércoles, 12 de julio de 2023\nEl importante convenio permitirá adelantar acciones científicas, tecnológicas y proyectos de investigación, impactando positivamente los procesos formativos de aprendices. </string>
+    <string name="card_02"> Centro Lope, en Nariño, cuenta con infraestructura para beneficio de jóvenes campesinos</string>
+    <string name="card_description_02"> Jueves, 13 de julio de 2023\nLa obra tuvo un costo de más de 3.846 millones de pesos y beneficiará a por lo menos 3.000 aprendices al año. </string>
+    <string name="card_03"> Más de 650 campesinos han recibido formación en Casanare, gracias a CampeSENA</string>
+    <string name="card_description_03"> Jueves, 13 de julio de 2023\nYopal, Hato Corozal, Nunchía, Pore, Orocué, Trinidad y Villanueva son los municipios que han sido beneficiados. </string>
+    <string name="card_04"> Armenia se prepara para el congreso nacional de la construcción</string>
+    <string name="card_description_04"> Jueves, 13 de julio de 2023\nEl SENA, junto al Consejo Profesional Nacional de Ingeniería (COPNIA), organiza este evento que se realizará del 25 al 27 de julio. </string>
+
+</resources>

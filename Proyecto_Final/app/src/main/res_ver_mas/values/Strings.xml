@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ver_pimienta">Pimienta</string>
+    <string name="ver_comino">Comino</string>
+    <string name="ver_canela">Canela</string>
+    <string name="ver_miel">Miel</string>
+
+    <string name="ver_pimienta_precio">$2.000 COP</string>
+    <string name="ver_comino_precio">$3.500 COP</string>
+    <string name="ver_canela_precio">$1.500 COP</string>
+    <string name="ver_miel_precio">$5.000 COP</string>
+</resources>

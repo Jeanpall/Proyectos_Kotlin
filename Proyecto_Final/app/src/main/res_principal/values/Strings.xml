@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pri_flores"> Flores </string>
+    <string name="pri_frutas_verduras"> Frutas\nVerduras </string>
+    <string name="pri_huevos"> Huevos </string>
+    <string name="pri_Lacteos"> Lacteos </string>
+    <string name="pri_ver_mas"> Ver Mas </string>
+
+    /*Pagina principal*/
+    <string name="pri_lechuga">Lechuga</string>
+    <string name="pri_lechuga_precio">$5.000</string>
+    <string name="pri_carne">Carne</string>
+    <string name="pri_carne_precio">$15.000</string>
+    <string name="pri_coliflor">Coliflor</string>
+    <string name="pri_coliflor_precio">$3.500</string>
+    <string name="pri_cebolla_cabezona">Cebolla Cabezona</string>
+    <string name="pri_cebolla_cabezona_precio">$2.350</string>
+    <string name="pri_banano">Banano</string>
+    <string name="pri_banano_precio">$6.700</string>
+    <string name="pri_cebolla">Cebolla</string>
+    <string name="pri_espinaca">Espinaca</string>
+    <string name="pri_naranja">Naranja</string>
+    <string name="pri_mandarina">Mandarina</string>
+
+
+</resources>

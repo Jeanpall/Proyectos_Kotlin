@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    /*String Inicio*/
+    <string name="dia_campesino">Dia del Campesino</string>
+    <string name="dia_campesino_descripcion">Para el sena es un placer celebrar el dia del Campesion y que mejor que en nuestras instalaciones del CBA, el 4 de Junio en el horario de 9:00am a 1:00pm. ¡Te esperamos, no faltes! </string>
+    <string name="feria_empresarial">Feria Empresarial</string>
+    <string name="feria_empresarial_descripcion"> Para Inscribirte y Participar, puedes hacerlo entrando al BlogCBA
+        ¡Recuerda! postularte antes del 4 de Junio, para comunicarnos contigo, y resolver dudas.</string>
+    <string name="bicicleta">Sobre tu bicicleta</string>
+    <string name="bicicleta_descripcion">En el sena nos preocupa tu seguridad, por eso al entrar a las instalaciones usa tu casco y deja un documento para validar que eres el propietario y te recomendamos traer un elemento para asegurarla como Guaya, Cadena, etc.</string>
+    <string name="salud_oral">Salud Oral</string>
+    <string name="salud_oral_descripcion"> De parte de Bienestar al Aprendiz queremos darte 3 tips para tu salud oral. 1. Reducir el consumo de azucar. 2. Cepillar tus dientes 3 veces. 3. Utilizar Hilo Dental y visitar a un Odontologo. </string>
+    <string name="practicas_laborales">Convocatoria practica Laboral</string>
+    <string name="practicas_laborales_descripcion">Durante el tiempo de la práctica laboral, los estudiantes beneficiarios reciben un auxilio económico, equivalente a (1) salario mínimo mensual legal vigente (SMMLV), cuyo pago lo realiza el Ministerio del Trabajo.</string>
+
+    /*Page Inicio*/
+    <string name="show_less">Show Less</string>
+    <string name="show_more">Show More</string>
+
+</resources>

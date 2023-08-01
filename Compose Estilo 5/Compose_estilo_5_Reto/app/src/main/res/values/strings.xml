@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Compose_estilo_5</string>
+    <string name="productos">Productos</string>
+    <string name="destacados">Destacados</string>
+    <string name="categorias">Categorias</string>
+    <string name="ab1_inversions">Inversions</string>
+    <string name="ab2_quick_yoga">Quick yoga</string>
+    <string name="ab3_stretching">Stretching</string>
+    /*Imagenes categorias*/
+    <string name="Huevos">Huevos</string>
+    <string name="Carnes">Carnes</string>
+    <string name="Verduras">Verduras</string>
+    <string name="Frutas">Frutas</string>
+    <string name="Flores">Flores</string>
+    <string name="Postres">Postres</string>
+    /*Imagenes productos*/
+    <string name="Carne">Carne de Res</string>
+    <string name="Leche">Leche</string>
+    <string name="Lechuga">Lechuga</string>
+    <string name="Mora">Mora</string>
+    <string name="Fresa">Fresa</string>
+    <string name="Zanahoria">Zanahoria</string>
+    <string name="Manzana">Manzana</string>
+    <string name="Cebolla">Cebolla Larga</string>
+    <string name="Miel">Miel</string>
+    <string name="Espinaca">Espinaca</string>
+    <string name="Girasol">Girasol</string>
+    <string name="Tulipan">Tulipan</string>
+    <string name="Naranja">Naranja</string>
+    <string name="Pera">Pera</string>
+    <string name="Coliflor">Coliflor</string>
+    <string name="Cebolla_Cabezona">Cebolla Cabezona</string>
+    <string name="Banano">Banano</string>
+    <string name="Mandarina">Mandarina</string>
+    <string name="Mazorca">Mazorca</string>
+    <string name="Arveja">Arveja</string>
+    <string name="Rosas">Rosas</string>
+
+    <string name="ab4_tabata">Tabata</string>
+    <string name="ab5_hiit">HIIT</string>
+    <string name="ab6_pre_natal_yoga">Pre-natal yoga</string>
+    <string name="fc1_short_mantras">Short mantras</string>
+    <string name="fc2_nature_meditations">Nature meditations</string>
+    <string name="fc3_stress_and_anxiety">Stress and anxiety</string>
+    <string name="fc4_self_massage">Self massage</string>
+    <string name="fc5_overwhelmed">Overwhelmed</string>
+    <string name="fc6_nightly_wind_down">Nightly wind down</string>
+    <string name="cd_fab_start">start</string>
+    <string name="bottom_navigation_home">HOME</string>
+    <string name="bottom_navigation_profile">PROFILE</string>
+    <string name="placeholder_search">Search</string>
+</resources>

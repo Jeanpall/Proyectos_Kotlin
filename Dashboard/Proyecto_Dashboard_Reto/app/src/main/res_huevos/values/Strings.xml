@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hu_huevos_gallina">Huevos de Gallina</string>
+    <string name="hu_huevos_gallina_descripcion">En referencia al huevo de gallina, se han realizado multitud de estudios. Y han demostrado, que comer uno, o dos huevos al día, no representa ningún riesgo. De hecho, posee un nutriente fundamental en el funcionamiento cardiovascular y cerebral.</string>
+    <string name="hu_huevos_avestruz">Huevos de Avestruz</string>
+    <string name="hu_huevos_avestruz_descripcion">Uno de los mayores aportes del huevo de avestruz, es su bajo contenido en colesterol respecto a los huevos de otras aves como la gallina, además de contener menos grasas. Esponjoso y de sabor suave, contiene calcio, vitaminas y ácido fólico, sustancias muy beneficiosas para una dieta saludable.</string>
+    <string name="hu_huevos_codorniz">Huevos de Codorniz</string>
+    <string name="hu_huevos_codorniz_descripcion">No generan alteraciones nocivas sobre el perfil lipídico y ayudan a cubrir los requerimientos diarios de hierro, selenio y zinc. Todos estos minerales serán imprescindibles para la homeostasis en el medio interno y para favorecer el equilibrio hormonal.</string>
+    <string name="hu_huevos_jumbo">Huevos Jumbo</string>
+    <string name="hu_huevos_jumbo_descripcion">Calibre de huevo: Jumbo ( Entre 73 y 105 gramos. ). Color: Blanco. Ingredientes: contiene complejo B, vitamina A, B12, D, E, K, minerales como selenio, fosforo, folatos y en menor medida el zinc, hierro, calcio. Conservación: Mantener en un sitio fresco, seco y a temperatura constante.</string>
+</resources>

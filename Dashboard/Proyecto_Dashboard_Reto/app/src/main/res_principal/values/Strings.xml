@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pri_flores"> Flores </string>
+    <string name="pri_frutas_verduras"> Frutas/verduras </string>
+    <string name="pri_huevos"> Huevos </string>
+    <string name="pri_Lacteos"> Lacteos </string>
+    <string name="pri_ver_mas"> Ver Mas </string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">compose_login</string>
+    <string name="back_button">Back</string>
+    <string name="bienvenido">! BIENVENIDO ¡</string>
+    <string name="splas_description">Te estabamos esperando.</string>
+    <string name="cba_sena">CBA Sena</string>
+    <string name="canal_tienda">Canal Tienda</string>
+    <string name="canal_notificaciones">Canal de Notificaciones Tienda CBA</string>
+</resources>

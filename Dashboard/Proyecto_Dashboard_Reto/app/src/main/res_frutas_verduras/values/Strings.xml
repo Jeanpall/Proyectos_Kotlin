@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    /*Pagina principal*/
+    <string name="Lechuga">Lechuga</string>
+    <string name="Pera">Pera</string>
+    <string name="Coliflor">Coliflor</string>
+    <string name="Cebolla_cabezona">Cebolla Cabezona</string>
+    <string name="Banano">Banano</string>
+    <string name="Cebolla">Cebolla</string>
+    <string name="Espinaca">Espinaca</string>
+    <string name="Naranja">Naranja</string>
+    <string name="Mandarina">Mandarina</string>
+
+
+    /*Card de los productos en la seccion Frutas y Verduras*/
+    <string name="Arveja">Arveja</string>
+    <string name="Arveja_descripcion">Pisum sativum es una planta herbácea de la familia de las leguminosas (Fabaceae), más o menos trepadora, propia de la cuenca mediterránea, aunque muy extendida en todo el mundo. Se cultiva para consumir las semillas.</string>
+    <string name="Mazorca">Mazorca</string>
+    <string name="Mazorca_descripcion">El maíz (Zea mays) es una especie de planta gramínea anual originaria de Mesoamérica. Su inflorescencia femenina (mazorca) se llama elote o choclo y allí crecen granos comestibles, es el mayor cereal a nivel de producción.</string>
+    <string name="Zanahoria">Zanahoria</string>
+    <string name="Zanahoria_descripcion">Daucus carota sativus, llamada popularmente zanahoria, es la forma domesticada de la zanahoria silvestre (Daucus carota), especie de la familia de las umbelíferas, también denominadas apiáceas, y considerada la más importante y de mayor consumo dentro de esta familia.</string>
+    <string name="Manzana">Manzana</string>
+    <string name="Manzana_descripcion">La manzana o poma es el fruto comestible de la especie Malus domestica, el manzano común. Es una fruta pomácea de forma redonda y sabor muy dulce, dependiendo de la variedad. El fruto es una gran fuente de vitaminas.</string>
+    <string name="Fresa">Fresa</string>
+    <string name="Fresa_descripcion">La fresa o frutilla (Fragaria) es un género de plantas rastreras estoloníferas de la familia Rosaceae. Agrupa unos 400 taxones descritos, de los cuales solo unos 20 están aceptados.Son cultivadas por su fruto comestible (eterio) llamado de la misma manera: fresa o frutilla</string>
+    <string name="Mora">Mora</string>
+    <string name="Mora_descripcion">Mira es el nombre que reciben diversos frutos comestibles de distintas especies; cuya fruta no es una baya, sino un eterio, compuesto de pequeños drupas, que le da una forma en común a este grupo de frutas. </string>
+
+</resources>

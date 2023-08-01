@@ -24,6 +24,9 @@ Links:
  * [Docs](https://kotlinlang.org/docs/home.html)
  * [Editor Android Studio](https://developer.android.com/jetpack/compose/setup?gclid=CjwKCAjwq4imBhBQEiwA9Nx1BtuPEAp1tHRFWHf0B2wuS3rRIgLa_V3ahSm6P56nebjNWfJcTimOhhoCJwYQAvD_BwE&gclsrc=aw.ds&hl=es-419)
 
+###### Notas
+-  Guia básica la cual permite dar introducción e inicio a los conceptos de Jetpack Compose, se uso para algunos proyectos para conocer mejor del tema, te dejo el enlace por si quieres practicar también. [Click Aqui](https://developer.android.com/courses/pathways/jetpack-compose-for-android-developers-1?hl=es-419)
+
 
 # App Compose 4 🏪
 Este proyecto cuenta con  una pantalla de inicio la cual tiene un texto y botón para continuar a la siguiente sección en la cual el usuario podrá encontrar unas card en lista las cuales cuentan con una animación y que permite desplegar un texto al hacer click en alguna de las card.</br>

@@ -1,10 +1,10 @@
-# Tienda Sena Kotlin 👻
+# Proyectos Kotlin 👻
 [![official project](https://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 # Informacion ℹ️
     ENTIDAD: Centro de Biotecnologia Agropecuaria
     FICHA: 2558346
     PROGRAMA: Análisis y desarrollo de software - ADSO
-    OBJETIVO: Dashboard con Login
+    OBJETIVO: Manejar Compose y diferentes componentes
     FECHA CREACIÓN: 27/07/2023
     AUTOR: Jeanpall Ortega
 
@@ -24,6 +24,112 @@ Links:
  * [Docs](https://kotlinlang.org/docs/home.html)
  * [Editor Android Studio](https://developer.android.com/jetpack/compose/setup?gclid=CjwKCAjwq4imBhBQEiwA9Nx1BtuPEAp1tHRFWHf0B2wuS3rRIgLa_V3ahSm6P56nebjNWfJcTimOhhoCJwYQAvD_BwE&gclsrc=aw.ds&hl=es-419)
 
+
+# App Compose 4 🏪
+Este proyecto cuenta con  una pantalla de inicio la cual tiene un texto y botón para continuar a la siguiente sección en la cual el usuario podrá encontrar unas card en lista las cuales cuentan con una animación y que permite desplegar un texto al hacer click en alguna de las card.</br>
+
+###### NOTAS
+- [Codigo](https://kotlinlang.org/docs/home.html)
+- Version Compose 1.2.0
+- Version Kotlin Compiler 1.4.3
+
+# Calculadoras📱
+En esta carpeta encontrara dos tipos de proyectos, son dos tipos de calculadoras las cuales una esta echa con Android Views y la otra con Jetpack Compose, esto para conocer la diferencia entre las dos, manejando la versión antigua y la mas actual como lo es Compose.
+
+###### NOTAS Calculadora Views
+- [Codigo](https://kotlinlang.org/docs/home.html)
+- Archivos XML
+
+###### NOTAS Calculadora Compose
+- [Codigo](https://kotlinlang.org/docs/home.html)
+- Version Compose 1.0.5
+- Version Kotlin 1.5.31
+
+# Compose Cupcakes 🧁
+Este proyecto nos va a explicar a fondo el tema de navegaciones entre pantallas y se enfoca en venta de Cupcakes, permitiendo la selección de sabor, cantidad y fecha del domicilio. Haciendo un resumen de lo anterior y permitiendo compartir un tipo de registro.
+
+###### NOTAS Calculadora Views
+- [Codigo](https://kotlinlang.org/docs/home.html)
+- Version Compose 1.8.21
+- Version Kotlin compiler 1.4.7
+
+# Compose Estilo 5 👍
+Aquí podrá usted ver dos tipos de aplicaciones las cuales tienen una Barra de búsqueda “Sin función”, Card que leen una lista que contiene imagen y texto y un NavBar. Con respecto a la modificación que se le realizo, se adaptó a la tienda Sena y se agrego otra fila de Cards para productos varios, permitimos que la barra de búsqueda se pudiera digitar, además se añadió un Botón Flotante.
+
+###### NOTAS Compose Estilo Original
+- [Codigo](https://kotlinlang.org/docs/home.html)
+- Version Compose 1.8.10
+- Version Kotlin compiler 1.4.3
+
+###### NOTAS Compose Estilo Modificado
+- [Codigo](https://kotlinlang.org/docs/home.html)
+- Version Compose 1.8.10
+- Version Kotlin compiler 1.4.3
+
+# Compose Login 🔒
+Evidenciara como se realizó la aplicación sobre un Login el cual no tiene ninguna conexión a APIS ni nada por el estilo, ya que es un Login base.</br>
+Con respecto a las modificaciones que se le hizo fue añadirle un splash con animación en la imagen y un tiempo de 4 seg el cual después nos traerá a la pantalla del Login en el cual evidenciaremos un cambio de diseño para adaptarlo a lo que nosotros queremos.
+
+###### NOTAS Compose Login Original
+- [Codigo](https://kotlinlang.org/docs/home.html)
+- Version Compose 1.8.10
+- Version Kotlin compiler 1.4.3
+
+###### NOTAS Compose Login Modificado
+- [Codigo](https://kotlinlang.org/docs/home.html)
+- Version Compose 1.8.10
+- Version Kotlin compiler 1.4.3
+- Splash y diseño.
+- Botones en el Login sin funcionalidad.
+
+# Estados Jetpack Compose 🤖
+En esta aplicación manejamos todo lo relacionado con los estados dentro de una aplicación y sus diferentes formas de implementarlas y conociéndolas profundamente. 
+
+###### NOTAS Compose Estados
+- [Codigo](https://kotlinlang.org/docs/home.html)
+- Version Compose 1.8.10
+- Version Kotlin compiler 1.4.3
+
+# Jetpack Compose 4 👩‍💻
+Aplicación en la cual implementamos un tipo chat el cual por medio de una lista están todos los textos y que permite seleccionar cualquiera y que cambien el color al hacer esta acción.
+
+###### NOTAS Compose 4
+- [Codigo](https://kotlinlang.org/docs/home.html)
+- Version Compose 1.8.10
+- Version Kotlin compiler 1.4.3
+
+# Dashboard 🔒
+Como base este Dahsboard cuenta con un Drawer, TopBar y BottomNavigationBar. Cuentan todos con un método de navegación para las diferentes páginas, el original no tiene ninguna edición como tal. </br>
+El de notificaciones nos brinda 4 tipos de notificaciones:
+
+* Notificación Sencilla
+* Notificación Extensa
+* Notificación con Imagen
+* Notificación Programada </br>
+
+Y la última versión de este Dashboard es la implementación de listas y card en las diferentes páginas, en este se hizo fue acoplar a una tienda la cual es la tienda Sena.
+
+###### NOTAS Dashboard Original
+- [Codigo](https://kotlinlang.org/docs/home.html)
+- Version Compose 1.8.10
+- Version Kotlin compiler 1.4.3
+- Uso Material 1
+
+###### NOTAS Dashboard Notificaciones
+- [Codigo](https://kotlinlang.org/docs/home.html)
+- Version Compose 1.8.10
+- Version Kotlin compiler 1.4.3
+- Material 1.
+- 4 tipos de notificaciones.
+
+###### NOTAS Dashboard Modificado
+- [Codigo](https://kotlinlang.org/docs/home.html)
+- Version Compose 1.8.10
+- Version Kotlin compiler 1.4.3
+- Cards y listas.
+- Notificaciones, información.
+- Implementación de mas proyectos
+  
 # Tienda Sena 🏪
 Este proyecto consta de un splash, login y un dashboard el cual tiene todo el contenido principal y diferentes navegaciones, contando con 4 tipos de notificaciones las cuales son: </br>
 
@@ -37,23 +143,3 @@ Además cuenta con categorías en la pantalla principal, las cuales permiten una
 # Enlace del Proyecto🔗 </br>
 * [Codigo Proyecto](https://github.com/Jeanpall/Tienda_Kotlin_Sena/tree/main/app/src/main/java/com/example/proyecto_dashboard)
 * [Imagenes](https://github.com/Jeanpall/Tienda_Kotlin_Sena/tree/main/app/src/main)
-
-# Preview App 🖼️
-- Splash con animación en la imagen 
-<p align="center">
-  <img width="167" alt="image" src="https://github.com/Jeanpall/Tienda_Kotlin_Sena/assets/110552270/46b106f1-c1b5-48b0-afca-d4716013fb26">
-</p>
-- Login/Registro con video de fondo
-<p align="center">
-  <img width="167" alt="image" src="https://github.com/Jeanpall/Tienda_Kotlin_Sena/assets/110552270/f222ab89-e2ca-488d-bd15-63ff27ad581a">
-    <img width="169" alt="image" src="https://github.com/Jeanpall/Tienda_Kotlin_Sena/assets/110552270/5147c097-520b-491d-af36-2488f97fe4cf">
-</p>
-- Principal Carrusel y Cards 
-<p align="center">
-  <img width="167" alt="image" src="https://github.com/Jeanpall/Tienda_Kotlin_Sena/assets/110552270/7513435e-bac6-4cf9-9ff4-d458c04d2f2d">
-</p>
-- Diseño productos y implementacion de un BottomSheetScaffold
-<p align="center">
-  <img width="167" alt="image" src="https://github.com/Jeanpall/Tienda_Kotlin_Sena/assets/110552270/ee82a9db-bf99-4811-80fe-4b8a9a5e361d">
-    <img width="168" alt="image" src="https://github.com/Jeanpall/Tienda_Kotlin_Sena/assets/110552270/434f5354-a02c-41ef-8ad9-5750d545c774">
-</p>
